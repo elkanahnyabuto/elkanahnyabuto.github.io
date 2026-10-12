@@ -1,4 +1,4 @@
-# Elkanah Nyabuto — Academic Website
+# Elkanah Nyabuto
 
 Static academic website for GitHub Pages.
 
