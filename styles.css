@@ -223,7 +223,7 @@ main { min-height: 45vh; }
 }
 
 :is(.publication, .publication-item, .pub-item, .pub-entry) p {
-  max-width: 85ch;
+  max-width: none;
   margin: 8px 0;
   line-height: 1.75;
 }
